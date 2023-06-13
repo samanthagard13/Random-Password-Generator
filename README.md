@@ -8,7 +8,8 @@ This site uses HTML, CSS and, JavaScript to produce a randomly generated passwor
 
 After choosing a password length and deciding what type of characters it will contain the site will generate and display the password.
 
-![Screen Shot] (./Assets/Screenshot.png)
+[![Screen Shot] (./Assets/Screenshot.png)]
+
 
 # 03 JavaScript: Password Generator
 
